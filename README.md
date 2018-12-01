@@ -3,5 +3,5 @@ You are given N books, ith of which has Pi pages (Pi <= Pj, if i < j). You have 
 You have to find the maximum number of pages, a student can have  in this assignment of books.
 the code is written in  such a way that  the complexity is minm  . 
 
-###Concepts Used:
+### Concepts Used:
 Binary Search
